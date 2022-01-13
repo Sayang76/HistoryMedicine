@@ -1,0 +1,4270 @@
+{
+   "etag": "\"MjAyMi0wMS0xMlQxMjo1NDoyNC4wNjZa\"",
+   "items": [
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkyMDQ2ODUxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7487356770986712896",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:54:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7487356770986712896/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7487356770986712896",
+         "title": "History of medicine",
+         "updated": "2022-01-12T04:54:06-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/history-of-medicine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkxNTAyMjMwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4171616781647278045",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:45:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4171616781647278045/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4171616781647278045",
+         "title": "Prehistoric medicine",
+         "updated": "2022-01-12T04:45:02-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/prehistoric-medicine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkxNDA4MTQ2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4918012398645174778",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:43:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4918012398645174778/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4918012398645174778",
+         "title": "Trepanning",
+         "updated": "2022-01-12T04:43:28-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/trepanning.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkxMzEyNjMxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3897937246343712033",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:41:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3897937246343712033/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3897937246343712033",
+         "title": "Medicine man",
+         "updated": "2022-01-12T04:41:52-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/medicine-man.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkxMjM0MDMzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8967122221342374182",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:40:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8967122221342374182/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8967122221342374182",
+         "title": "Shamanism",
+         "updated": "2022-01-12T04:40:34-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/shamanism.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkxMTIzODk5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7295374669358662118",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:38:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7295374669358662118/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7295374669358662118",
+         "title": "Ancient Egyptian medicine",
+         "updated": "2022-01-12T04:38:43-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ancient-egyptian-medicine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkxMDA4Njg2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4732475683180286984",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:36:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4732475683180286984/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4732475683180286984",
+         "title": "Edwin Smith Papyrus",
+         "updated": "2022-01-12T04:36:48-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/edwin-smith-papyrus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkwOTAxOTUzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3108822702881862807",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:35:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3108822702881862807/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3108822702881862807",
+         "title": "Ebers Papyrus",
+         "updated": "2022-01-12T04:35:01-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ebers-papyrus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkwODExODU4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6112142564244488580",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6112142564244488580/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6112142564244488580",
+         "title": "Kahun Gynaecological Papyrus",
+         "updated": "2022-01-12T04:33:31-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/kahun-gynaecological-papyrus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkwNjk5NzY3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4806734919781191142",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4806734919781191142/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4806734919781191142",
+         "title": "Ramesseum medical papyri",
+         "updated": "2022-01-12T04:31:39-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ramesseum-medical-papyri.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkwNjIwNjE5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8640397963872122079",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:30:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8640397963872122079/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8640397963872122079",
+         "title": "Hearst Papyrus",
+         "updated": "2022-01-12T04:30:20-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/hearst-papyrus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkwNTM3NzIwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1412401905932203283",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:28:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1412401905932203283/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1412401905932203283",
+         "title": "London Medical Papyrus",
+         "updated": "2022-01-12T04:28:57-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/london-medical-papyrus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkwNDY1NjgyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4452627128012729137",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:27:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4452627128012729137/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4452627128012729137",
+         "title": "Brugsch Papyrus",
+         "updated": "2022-01-12T04:27:45-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/brugsch-papyrus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkwMzc0NjA4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4086742804943866825",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:26:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4086742804943866825/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4086742804943866825",
+         "title": "Carlsberg papyrus",
+         "updated": "2022-01-12T04:26:14-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/carlsberg-papyrus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkwMzA4NTIxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7573735407491040660",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:25:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7573735407491040660/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7573735407491040660",
+         "title": "Chester Beatty Medical Papyrus",
+         "updated": "2022-01-12T04:25:08-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/chester-beatty-medical-papyrus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkwMjA0Mjg5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2180815308237716647",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:23:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2180815308237716647/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2180815308237716647",
+         "title": "Brooklyn Papyrus",
+         "updated": "2022-01-12T04:23:24-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/brooklyn-papyrus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTkwMDk4ODgxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6878201938133051096",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:21:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6878201938133051096/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6878201938133051096",
+         "title": "Erman Papyrus",
+         "updated": "2022-01-12T04:21:38-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/erman-papyrus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg5ODMyODg3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1109340421087252693",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:17:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1109340421087252693/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1109340421087252693",
+         "title": "Leyden papyrus X",
+         "updated": "2022-01-12T04:17:12-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/leyden-papyrus-x.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg5NzQyOTg4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3315055905365307173",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:15:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3315055905365307173/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3315055905365307173",
+         "title": "Imhotep",
+         "updated": "2022-01-12T04:15:42-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/imhotep.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg5NjUyMjA2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "15904657362118821",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:14:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/15904657362118821/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/15904657362118821",
+         "title": "Hesy-Ra",
+         "updated": "2022-01-12T04:14:12-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/hesy-ra.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg5NTY0OTAzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1851484101607793988",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:12:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1851484101607793988/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1851484101607793988",
+         "title": "Merit-Ptah",
+         "updated": "2022-01-12T04:12:44-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/merit-ptah.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg5NDg5MDc1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2366557460833553255",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:11:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2366557460833553255/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2366557460833553255",
+         "title": "Penthu",
+         "updated": "2022-01-12T04:11:29-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/penthu.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg5NDA3NDAwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8457806901333276377",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:10:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8457806901333276377/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8457806901333276377",
+         "title": "Peseshet",
+         "updated": "2022-01-12T04:10:07-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/peseshet.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg5MzA0MDU4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2058217974012765921",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:08:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2058217974012765921/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2058217974012765921",
+         "title": "Qar (doctor)",
+         "updated": "2022-01-12T04:08:24-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/qar-doctor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg5MjE4Mzc4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "896081224240221807",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:06:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/896081224240221807/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/896081224240221807",
+         "title": "Psamtikseneb",
+         "updated": "2022-01-12T04:06:58-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/psamtikseneb.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg5MTMwNjg5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "775647651489775527",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:05:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/775647651489775527/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/775647651489775527",
+         "title": "Ayurveda",
+         "updated": "2022-01-12T04:05:30-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ayurveda.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg4OTg3ODI2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1681374911555041800",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:03:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1681374911555041800/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1681374911555041800",
+         "title": "Unani",
+         "updated": "2022-01-12T04:03:07-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/unani.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg4ODk2NjMyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8434869266050156514",
+         "kind": "blogger#post",
+         "published": "2022-01-12T04:01:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8434869266050156514/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8434869266050156514",
+         "title": "Traditional Chinese medicine",
+         "updated": "2022-01-12T04:01:36-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/traditional-chinese-medicine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg4NDQ4NDkxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2762086746943089195",
+         "kind": "blogger#post",
+         "published": "2022-01-12T03:54:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2762086746943089195/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2762086746943089195",
+         "title": "Zhang Zhongjing",
+         "updated": "2022-01-12T03:54:08-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/zhang-zhongjing.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg4MzcwMTYwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "12854332862994253",
+         "kind": "blogger#post",
+         "published": "2022-01-12T03:52:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/12854332862994253/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/12854332862994253",
+         "title": "Hua Tuo",
+         "updated": "2022-01-12T03:52:50-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/hua-tuo.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg4Mjg1MTkyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6647019542779295384",
+         "kind": "blogger#post",
+         "published": "2022-01-12T03:51:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6647019542779295384/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6647019542779295384",
+         "title": "Sun Simiao",
+         "updated": "2022-01-12T03:51:25-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/sun-simiao.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg4MTk1NDk4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8942386961485330145",
+         "kind": "blogger#post",
+         "published": "2022-01-12T03:49:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8942386961485330145/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8942386961485330145",
+         "title": "Zhang Yuansu",
+         "updated": "2022-01-12T03:49:55-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/zhang-yuansu.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg4MTIwNjYxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7219590333637545645",
+         "kind": "blogger#post",
+         "published": "2022-01-12T03:48:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7219590333637545645/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7219590333637545645",
+         "title": "Li Shizhen",
+         "updated": "2022-01-12T03:48:40-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/li-shizhen.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTg4MDEzNTkwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8190279186087361349",
+         "kind": "blogger#post",
+         "published": "2022-01-12T03:46:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8190279186087361349/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8190279186087361349",
+         "title": "The body in traditional Chinese medicine",
+         "updated": "2022-01-12T03:46:53-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/the-body-in-traditional-chinese-medicine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc5MDI0NzQwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5927200092601209761",
+         "kind": "blogger#post",
+         "published": "2022-01-12T01:17:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5927200092601209761/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5927200092601209761",
+         "title": "Ancient Greek medicine",
+         "updated": "2022-01-12T01:17:04-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ancient-greek-medicine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc4NjExMzYwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3420801834589271872",
+         "kind": "blogger#post",
+         "published": "2022-01-12T01:10:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3420801834589271872/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3420801834589271872",
+         "title": "Humorism",
+         "updated": "2022-01-12T01:10:11-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/humorism.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc4NTM1Mjc2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "796502583947575691",
+         "kind": "blogger#post",
+         "published": "2022-01-12T01:08:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/796502583947575691/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/796502583947575691",
+         "title": "Hippocrates",
+         "updated": "2022-01-12T01:08:55-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/hippocrates.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc4Mjk1MTc3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8747489758466904074",
+         "kind": "blogger#post",
+         "published": "2022-01-12T01:04:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8747489758466904074/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8747489758466904074",
+         "title": "Hippocratic Corpus",
+         "updated": "2022-01-12T01:04:55-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/hippocratic-corpus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc4MTc5Njg5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3669605619578131461",
+         "kind": "blogger#post",
+         "published": "2022-01-12T01:02:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3669605619578131461/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3669605619578131461",
+         "title": "On Ancient Medicine",
+         "updated": "2022-01-12T01:02:59-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/on-ancient-medicine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc4MDcwMzY5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5534672072845222356",
+         "kind": "blogger#post",
+         "published": "2022-01-12T01:01:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5534672072845222356/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5534672072845222356",
+         "title": "Hippocratic Oath",
+         "updated": "2022-01-12T01:01:10-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/hippocratic-oath.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc3MTU0NjAyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "35585616375159771",
+         "kind": "blogger#post",
+         "published": "2022-01-12T00:45:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/35585616375159771/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/35585616375159771",
+         "title": "Asclepius",
+         "updated": "2022-01-12T00:45:54-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/asclepius.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc2OTgzMjkzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8929374276318789254",
+         "kind": "blogger#post",
+         "published": "2022-01-12T00:43:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8929374276318789254/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8929374276318789254",
+         "title": "Galen",
+         "updated": "2022-01-12T00:43:03-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/galen.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc2NzYwNjkwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8246161125050148575",
+         "kind": "blogger#post",
+         "published": "2022-01-12T00:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8246161125050148575/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8246161125050148575",
+         "title": "Galenic corpus",
+         "updated": "2022-01-12T00:39:20-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/galenic-corpus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc2NjY5MDEyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6501657895010901695",
+         "kind": "blogger#post",
+         "published": "2022-01-12T00:37:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6501657895010901695/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6501657895010901695",
+         "title": "Galenic formulation",
+         "updated": "2022-01-12T00:37:49-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/galenic-formulation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc2NTc4ODczCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5458973632259285740",
+         "kind": "blogger#post",
+         "published": "2022-01-12T00:36:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5458973632259285740/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5458973632259285740",
+         "title": "Medicine in ancient Rome",
+         "updated": "2022-01-12T00:36:18-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/medicine-in-ancient-rome.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc2Mzg3NTA1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1526338806264239306",
+         "kind": "blogger#post",
+         "published": "2022-01-12T00:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1526338806264239306/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1526338806264239306",
+         "title": "Pedanius Dioscorides",
+         "updated": "2022-01-12T00:33:07-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/pedanius-dioscorides.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc2MjY4MzM3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3183612253871551998",
+         "kind": "blogger#post",
+         "published": "2022-01-12T00:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3183612253871551998/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3183612253871551998",
+         "title": "Soranus of Ephesus",
+         "updated": "2022-01-12T00:31:08-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/soranus-of-ephesus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc2MTQzMzg3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5594829235839267313",
+         "kind": "blogger#post",
+         "published": "2022-01-12T00:29:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5594829235839267313/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5594829235839267313",
+         "title": "Medical community of ancient Rome",
+         "updated": "2022-01-12T00:29:03-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/medical-community-of-ancient-rome.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc2MDA0MTUwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3942712999408384471",
+         "kind": "blogger#post",
+         "published": "2022-01-12T00:26:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3942712999408384471/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3942712999408384471",
+         "title": "Byzantine medicine",
+         "updated": "2022-01-12T00:26:44-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/byzantine-medicine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTc1OTE4OTQwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7328744934386824158",
+         "kind": "blogger#post",
+         "published": "2022-01-12T00:25:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7328744934386824158/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7328744934386824158",
+         "title": "Medicine in the medieval Islamic world",
+         "updated": "2022-01-12T00:25:18-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/medicine-in-medieval-islamic-world.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTcyNzY2MDAxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7813855696170550355",
+         "kind": "blogger#post",
+         "published": "2022-01-11T23:32:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7813855696170550355/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7813855696170550355",
+         "title": "Muhammad ibn Zakariya al-Razi",
+         "updated": "2022-01-11T23:32:46-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/muhammad-ibn-zakariya-al-razi.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTcwOTY3MjY0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5782624953793956985",
+         "kind": "blogger#post",
+         "published": "2022-01-11T23:02:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5782624953793956985/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5782624953793956985",
+         "title": "Avicenna",
+         "updated": "2022-01-11T23:02:47-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/avicenna.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTYyMzEwMzY1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5767045950506719382",
+         "kind": "blogger#post",
+         "published": "2022-01-11T20:38:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5767045950506719382/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5767045950506719382",
+         "title": "The Canon of Medicine",
+         "updated": "2022-01-11T20:38:30-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/the-canon-of-medicine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTYxOTg1OTM3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3115784419373869077",
+         "kind": "blogger#post",
+         "published": "2022-01-11T20:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3115784419373869077/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3115784419373869077",
+         "title": "Al-Ruhawi",
+         "updated": "2022-01-11T20:33:05-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/al-ruhawi.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTYxODg1NjQ0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2519058892406929973",
+         "kind": "blogger#post",
+         "published": "2022-01-11T20:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2519058892406929973/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2519058892406929973",
+         "title": "Ali ibn Sahl Rabban al-Tabari",
+         "updated": "2022-01-11T20:31:25-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ali-ibn-sahl-rabban-al-tabari.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTYxNzE3MzMwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7884490920998368012",
+         "kind": "blogger#post",
+         "published": "2022-01-11T20:28:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7884490920998368012/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7884490920998368012",
+         "title": "Ali ibn al-'Abbas al-Majusi",
+         "updated": "2022-01-11T20:28:37-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ali-ibn-al-abbas-al-majusi.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTYxNTk1MDQ0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2143288504338940845",
+         "kind": "blogger#post",
+         "published": "2022-01-11T20:26:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2143288504338940845/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2143288504338940845",
+         "title": "Ibn al-Nafis",
+         "updated": "2022-01-11T20:26:35-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ibn-al-nafis.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTYxNDMyNjU0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3853132369410354907",
+         "kind": "blogger#post",
+         "published": "2022-01-11T20:23:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3853132369410354907/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3853132369410354907",
+         "title": "Alhazen",
+         "updated": "2022-01-11T20:23:52-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/alhazen.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTYwNzk3MjA2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4033265742549691080",
+         "kind": "blogger#post",
+         "published": "2022-01-11T20:13:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4033265742549691080/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4033265742549691080",
+         "title": "Baghdadi",
+         "updated": "2022-01-11T20:13:17-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/baghdadi.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTYwNzEwNzg0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1669878366444148790",
+         "kind": "blogger#post",
+         "published": "2022-01-11T20:11:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1669878366444148790/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1669878366444148790",
+         "title": "Ibn Zuhr",
+         "updated": "2022-01-11T20:11:50-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ibn-zuhr.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTYwNDk5NzAwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8064173011142578557",
+         "kind": "blogger#post",
+         "published": "2022-01-11T20:08:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8064173011142578557/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8064173011142578557",
+         "title": "Anatomy Charts of the Arabs",
+         "updated": "2022-01-11T20:08:19-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/anatomy-charts-of-arabs.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTYwMzkzNDE3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3924414239104026629",
+         "kind": "blogger#post",
+         "published": "2022-01-11T20:06:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3924414239104026629/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3924414239104026629",
+         "title": "Medical Encyclopedia of Islam and Iran",
+         "updated": "2022-01-11T20:06:33-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/medical-encyclopedia-of-islam-and-iran.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU5OTg0Mzc3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4669387218448817951",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:59:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4669387218448817951/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4669387218448817951",
+         "title": "Medieval medicine of Western Europe",
+         "updated": "2022-01-11T19:59:44-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/medieval-medicine-of-western-europe.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU5ODIwNDQwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "486834330438673655",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:57:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/486834330438673655/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/486834330438673655",
+         "title": "Andreas Vesalius",
+         "updated": "2022-01-11T19:57:00-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/andreas-vesalius.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU5NTQ4MzY0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7570156314507413152",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:52:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7570156314507413152/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7570156314507413152",
+         "title": "De Humani Corporis Fabrica",
+         "updated": "2022-01-11T19:52:28-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/de-humani-corporis-fabrica.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU5NDI2MDUwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8924884517076014344",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:50:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8924884517076014344/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8924884517076014344",
+         "title": "William Harvey",
+         "updated": "2022-01-11T19:50:26-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/william-harvey.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU5MjYwODUxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7524421848053150616",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:47:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7524421848053150616/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7524421848053150616",
+         "title": "Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus",
+         "updated": "2022-01-11T19:47:40-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/exercitatio-anatomica-de-motu-cordis-et.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU4OTA2MjA4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2430801733392475021",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:41:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2430801733392475021/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2430801733392475021",
+         "title": "Paracelsus",
+         "updated": "2022-01-11T19:41:46-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/paracelsus.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU4Njg1ODMyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3038765395848366069",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:38:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3038765395848366069/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3038765395848366069",
+         "title": "Ambroise Paré",
+         "updated": "2022-01-11T19:38:05-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ambroise-pare.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU4NDM4NzcyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8215452259143178637",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8215452259143178637/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8215452259143178637",
+         "title": "Timeline of medicine and medical technology",
+         "updated": "2022-01-11T19:33:58-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/timeline-of-medicine-and-medical.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU4MTQ2OTY3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1657856223370207795",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:29:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1657856223370207795/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1657856223370207795",
+         "title": "History of anatomy",
+         "updated": "2022-01-11T19:29:06-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/history-of-anatomy.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU3OTY0NDE3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2321448401367397020",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:26:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2321448401367397020/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2321448401367397020",
+         "title": "Mondino de Liuzzi",
+         "updated": "2022-01-11T19:26:04-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/mondino-de-liuzzi.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU3ODM3NzExCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4640557832991085604",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:23:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4640557832991085604/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4640557832991085604",
+         "title": "Alessandro Achillini",
+         "updated": "2022-01-11T19:23:57-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/alessandro-achillini.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU3NzAxMTAyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8807721503448290569",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:21:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8807721503448290569/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8807721503448290569",
+         "title": "Antonio Benivieni",
+         "updated": "2022-01-11T19:21:41-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/antonio-benivieni.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU3NTg4OTIwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2270982869630975790",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:19:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2270982869630975790/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2270982869630975790",
+         "title": "History of anatomy in the 19th century",
+         "updated": "2022-01-11T19:19:48-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/history-of-anatomy-in-19th-century.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU3Mjk3MDE2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4642866761913548393",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:14:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4642866761913548393/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4642866761913548393",
+         "title": "Samuel Thomas von Sömmerring",
+         "updated": "2022-01-11T19:14:57-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/samuel-thomas-von-sommerring.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU3MTY2MjY2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7637563353250181496",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:12:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7637563353250181496/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7637563353250181496",
+         "title": "Marie François Xavier Bichat",
+         "updated": "2022-01-11T19:12:46-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/marie-francois-xavier-bichat.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU2OTU4MzE5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5271426050623531073",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:09:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5271426050623531073/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5271426050623531073",
+         "title": "Henry Gray",
+         "updated": "2022-01-11T19:09:18-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/henry-gray.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU2ODM0MjMwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1171003258258621193",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:07:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1171003258258621193/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1171003258258621193",
+         "title": "Anatomy Act 1832",
+         "updated": "2022-01-11T19:07:14-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/anatomy-act-1832.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU2NzIyMTMwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "9161430198264970452",
+         "kind": "blogger#post",
+         "published": "2022-01-11T19:05:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/9161430198264970452/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/9161430198264970452",
+         "title": "History of surgery",
+         "updated": "2022-01-11T19:05:22-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/history-of-surgery.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU2MjE0MzUyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4903072041403476783",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:56:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4903072041403476783/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4903072041403476783",
+         "title": "William Cheselden",
+         "updated": "2022-01-11T18:56:54-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/william-cheselden.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU2MDcwNDI3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1958038768433258363",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:54:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1958038768433258363/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1958038768433258363",
+         "title": "William Hunter (anatomist)",
+         "updated": "2022-01-11T18:54:30-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/william-hunter-anatomist.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU1OTQ2NDA4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6734182993642576807",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:52:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6734182993642576807/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6734182993642576807",
+         "title": "John Hunter (surgeon)",
+         "updated": "2022-01-11T18:52:26-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/john-hunter-surgeon.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU1ODA3NTE1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4426773657135981085",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:50:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4426773657135981085/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4426773657135981085",
+         "title": "Percivall Pott",
+         "updated": "2022-01-11T18:50:07-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/percivall-pott.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU1NjQwMTIyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1088140283125873480",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:47:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1088140283125873480/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1088140283125873480",
+         "title": "Astley Cooper",
+         "updated": "2022-01-11T18:47:20-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/astley-cooper.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU1NTM0NzI2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3966382915305629016",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:45:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3966382915305629016/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3966382915305629016",
+         "title": "James Syme",
+         "updated": "2022-01-11T18:45:34-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/james-syme.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU1NDA2NDE0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7500732801232193009",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:43:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7500732801232193009/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7500732801232193009",
+         "title": "Ignaz Semmelweis",
+         "updated": "2022-01-11T18:43:26-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ignaz-semmelweis.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU1MjU4Mjk3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "133338902893586319",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:40:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/133338902893586319/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/133338902893586319",
+         "title": "Joseph Lister, 1st Baron Lister",
+         "updated": "2022-01-11T18:40:58-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/joseph-lister-1st-baron-lister.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU0NjAxNDg0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7856549287137679348",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:30:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7856549287137679348/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7856549287137679348",
+         "title": "Antiseptic Principle of the Practice of Surgery",
+         "updated": "2022-01-11T18:30:01-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/antiseptic-principle-of-practice-of.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU0NTIyNzg0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7702836513325260651",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:28:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7702836513325260651/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7702836513325260651",
+         "title": "Louis Pasteur",
+         "updated": "2022-01-11T18:28:42-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/louis-pasteur.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU0MjQ1NzgxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4937708778834373358",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:24:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4937708778834373358/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4937708778834373358",
+         "title": "Wilhelm Röntgen",
+         "updated": "2022-01-11T18:24:05-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/wilhelm-rontgen.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTU0MTE2NTQ5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5341090736215335404",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:21:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5341090736215335404/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5341090736215335404",
+         "title": "Robert Liston",
+         "updated": "2022-01-11T18:21:56-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/robert-liston.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTUzOTI2MTY3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "638230193204171818",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:18:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/638230193204171818/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/638230193204171818",
+         "title": "History of general anesthesia",
+         "updated": "2022-01-11T18:18:46-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/history-of-general-anesthesia.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTUzMTgxMjUxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2417593158030319220",
+         "kind": "blogger#post",
+         "published": "2022-01-11T18:06:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2417593158030319220/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2417593158030319220",
+         "title": "History of hospitals",
+         "updated": "2022-01-11T18:06:21-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/history-of-hospitals.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTUyNDcyOTI4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7493073853736507209",
+         "kind": "blogger#post",
+         "published": "2022-01-11T17:54:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7493073853736507209/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7493073853736507209",
+         "title": "History of pharmacy",
+         "updated": "2022-01-11T17:54:32-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/history-of-pharmacy.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTUyMjgyNTY4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7216969378527334897",
+         "kind": "blogger#post",
+         "published": "2022-01-11T17:51:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7216969378527334897/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7216969378527334897",
+         "title": "History of pathology",
+         "updated": "2022-01-11T17:51:22-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/history-of-pathology.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTUyMDYyNjQ1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6236098952354008437",
+         "kind": "blogger#post",
+         "published": "2022-01-11T17:47:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6236098952354008437/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6236098952354008437",
+         "title": "Giovanni Battista Morgagni",
+         "updated": "2022-01-11T17:47:42-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/giovanni-battista-morgagni.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTUxNjE1NjYxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1073577604895387987",
+         "kind": "blogger#post",
+         "published": "2022-01-11T17:40:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1073577604895387987/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1073577604895387987",
+         "title": "Carl von Rokitansky",
+         "updated": "2022-01-11T17:40:15-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/carl-von-rokitansky.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTUxNDg1OTg3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5120927260195838128",
+         "kind": "blogger#post",
+         "published": "2022-01-11T17:38:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5120927260195838128/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5120927260195838128",
+         "title": "Rudolf Virchow",
+         "updated": "2022-01-11T17:38:05-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/rudolf-virchow.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTUxMDIxODMzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4720342679845635014",
+         "kind": "blogger#post",
+         "published": "2022-01-11T17:30:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4720342679845635014/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4720342679845635014",
+         "title": "Julius Friedrich Cohnheim",
+         "updated": "2022-01-11T17:30:21-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/julius-friedrich-cohnheim.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTUwOTM5NDQzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7986183771152925779",
+         "kind": "blogger#post",
+         "published": "2022-01-11T17:28:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7986183771152925779/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7986183771152925779",
+         "title": "Women in medicine",
+         "updated": "2022-01-11T17:28:59-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/women-in-medicine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTUwMDc0Nzc3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3104459043237948373",
+         "kind": "blogger#post",
+         "published": "2022-01-11T17:14:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3104459043237948373/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3104459043237948373",
+         "title": "London School of Medicine for Women",
+         "updated": "2022-01-11T17:14:34-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/london-school-of-medicine-for-women.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTQ5NTMxMDI0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6714435206392738511",
+         "kind": "blogger#post",
+         "published": "2022-01-11T17:05:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6714435206392738511/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6714435206392738511",
+         "title": "Edinburgh School of Medicine for Women",
+         "updated": "2022-01-11T17:05:31-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/edinburgh-school-of-medicine-for-women.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTQ5MzE3NzcyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8162596581755718214",
+         "kind": "blogger#post",
+         "published": "2022-01-11T17:01:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8162596581755718214/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8162596581755718214",
+         "title": "Sophia Jex-Blake",
+         "updated": "2022-01-11T17:01:57-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/sophia-jex-blake.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTQ4ODIzNzIwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "112155582748714738",
+         "kind": "blogger#post",
+         "published": "2022-01-11T16:53:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/112155582748714738/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/112155582748714738",
+         "title": "Elizabeth Garrett Anderson and Obstetric Hospital",
+         "updated": "2022-01-11T16:53:43-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/elizabeth-garrett-anderson-and.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTQ4NzA5ODE4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8762299170093977598",
+         "kind": "blogger#post",
+         "published": "2022-01-11T16:51:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8762299170093977598/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8762299170093977598",
+         "title": "Elizabeth Garrett Anderson",
+         "updated": "2022-01-11T16:51:49-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/elizabeth-garrett-anderson.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTQ4NTkxMTk5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2633389228382555450",
+         "kind": "blogger#post",
+         "published": "2022-01-11T16:49:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2633389228382555450/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2633389228382555450",
+         "title": "South London Hospital for Women and Children",
+         "updated": "2022-01-11T16:49:51-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/south-london-hospital-for-women-and.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTQ4NDQ4OTE5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4231136680629218025",
+         "kind": "blogger#post",
+         "published": "2022-01-11T16:47:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4231136680629218025/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4231136680629218025",
+         "title": "Eleanor Davies-Colley",
+         "updated": "2022-01-11T16:47:28-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/eleanor-davies-colley.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTQ4MzY0ODQxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3423322575698382658",
+         "kind": "blogger#post",
+         "published": "2022-01-11T16:46:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3423322575698382658/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3423322575698382658",
+         "title": "Maud Chadburn",
+         "updated": "2022-01-11T16:46:04-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/maud-chadburn.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTQ4MTMxMzcxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1564302565014753436",
+         "kind": "blogger#post",
+         "published": "2022-01-11T16:42:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1564302565014753436/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1564302565014753436",
+         "title": "Agamede",
+         "updated": "2022-01-11T16:42:11-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/agamede.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTQ3OTk0MDIxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1479788850473233686",
+         "kind": "blogger#post",
+         "published": "2022-01-11T16:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1479788850473233686/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1479788850473233686",
+         "title": "Agnodice",
+         "updated": "2022-01-11T16:39:54-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/agnodice.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTA1NTE3NTg1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8381152307559273249",
+         "kind": "blogger#post",
+         "published": "2022-01-11T04:51:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8381152307559273249/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8381152307559273249",
+         "title": "Trota of Salerno",
+         "updated": "2022-01-11T04:51:57-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/trota-of-salerno.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTA1MjQxOTA3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7339907912101028578",
+         "kind": "blogger#post",
+         "published": "2022-01-11T04:47:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7339907912101028578/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7339907912101028578",
+         "title": "Hildegard of Bingen",
+         "updated": "2022-01-11T04:47:21-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/hildegard-of-bingen.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTA1MDkxNTM4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6978107879610034898",
+         "kind": "blogger#post",
+         "published": "2022-01-11T04:44:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6978107879610034898/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6978107879610034898",
+         "title": "Dorothea Erxleben",
+         "updated": "2022-01-11T04:44:51-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/dorothea-erxleben.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTA0OTg1MzA1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5675856622867978495",
+         "kind": "blogger#post",
+         "published": "2022-01-11T04:43:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5675856622867978495/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5675856622867978495",
+         "title": "James Barry (surgeon)",
+         "updated": "2022-01-11T04:43:05-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/james-barry-surgeon.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxOTA0ODUwMDgzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1911384390279161326",
+         "kind": "blogger#post",
+         "published": "2022-01-11T04:40:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1911384390279161326/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1911384390279161326",
+         "title": "Lovisa Åhrberg",
+         "updated": "2022-01-11T04:40:50-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/lovisa-ahrberg.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODkyMjE4NTQyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "363040502537794909",
+         "kind": "blogger#post",
+         "published": "2022-01-11T01:10:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/363040502537794909/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/363040502537794909",
+         "title": "Amalia Assur",
+         "updated": "2022-01-11T01:10:18-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/amalia-assur.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODkxMzk0ODcxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3114121585665187388",
+         "kind": "blogger#post",
+         "published": "2022-01-11T00:56:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3114121585665187388/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3114121585665187388",
+         "title": "Ann Preston",
+         "updated": "2022-01-11T00:56:34-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ann-preston.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODkxMzIzNTk0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1141999067681477537",
+         "kind": "blogger#post",
+         "published": "2022-01-11T00:55:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1141999067681477537/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1141999067681477537",
+         "title": "Elizabeth Blackwell ",
+         "updated": "2022-01-11T00:55:23-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/elizabeth-blackwell.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODg3MDM2MzE3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7799354652130930733",
+         "kind": "blogger#post",
+         "published": "2022-01-10T23:43:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7799354652130930733/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7799354652130930733",
+         "title": "Rebecca Lee Crumpler",
+         "updated": "2022-01-10T23:43:56-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/rebecca-lee-crumpler.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODg2OTQ0MzUyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5003009794859265669",
+         "kind": "blogger#post",
+         "published": "2022-01-10T23:42:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5003009794859265669/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5003009794859265669",
+         "title": "Lucy Hobbs Taylor",
+         "updated": "2022-01-10T23:42:24-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/lucy-hobbs-taylor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODg2ODU4OTE0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "323211912297952518",
+         "kind": "blogger#post",
+         "published": "2022-01-10T23:40:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/323211912297952518/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/323211912297952518",
+         "title": "Madeleine Brès",
+         "updated": "2022-01-10T23:40:58-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/madeleine-bres.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODg2NzUzNDE0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7804320322161291960",
+         "kind": "blogger#post",
+         "published": "2022-01-10T23:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7804320322161291960/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7804320322161291960",
+         "title": "Nadezhda Suslova",
+         "updated": "2022-01-10T23:39:13-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/nadezhda-suslova.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODg2NjYyNjIxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8040638790332581174",
+         "kind": "blogger#post",
+         "published": "2022-01-10T23:37:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8040638790332581174/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8040638790332581174",
+         "title": "Frances Hoggan",
+         "updated": "2022-01-10T23:37:42-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/frances-hoggan.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODg1NzI3NTg0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "982205519759640902",
+         "kind": "blogger#post",
+         "published": "2022-01-10T23:22:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/982205519759640902/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/982205519759640902",
+         "title": "Edith Pechey",
+         "updated": "2022-01-10T23:22:07-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/edith-pechey.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODg1NjM2MzA3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2708785094282521886",
+         "kind": "blogger#post",
+         "published": "2022-01-10T23:20:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2708785094282521886/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2708785094282521886",
+         "title": "Mary Scharlieb",
+         "updated": "2022-01-10T23:20:36-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/mary-scharlieb.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODg1NTYxNDk1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1804889423559160155",
+         "kind": "blogger#post",
+         "published": "2022-01-10T23:19:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1804889423559160155/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1804889423559160155",
+         "title": "Margaret Cleaves",
+         "updated": "2022-01-10T23:19:21-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/margaret-cleaves.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODg1NDc5ODI5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1817501059388102566",
+         "kind": "blogger#post",
+         "published": "2022-01-10T23:17:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1817501059388102566/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1817501059388102566",
+         "title": "Ogino Ginko",
+         "updated": "2022-01-10T23:17:59-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ogino-ginko.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODg1NDEwNTczCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "707184219406548270",
+         "kind": "blogger#post",
+         "published": "2022-01-10T23:16:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/707184219406548270/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/707184219406548270",
+         "title": "Aletta Jacobs",
+         "updated": "2022-01-10T23:16:50-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/aletta-jacobs.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODg1MzE2MTk3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6887832039995014017",
+         "kind": "blogger#post",
+         "published": "2022-01-10T23:15:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6887832039995014017/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6887832039995014017",
+         "title": "Hope Bridges Adams Lehmann",
+         "updated": "2022-01-10T23:15:16-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/hope-bridges-adams-lehmann.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODc3MTk0NzI2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3904111468790952924",
+         "kind": "blogger#post",
+         "published": "2022-01-10T20:59:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3904111468790952924/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3904111468790952924",
+         "title": "Kadambini Ganguly",
+         "updated": "2022-01-10T20:59:54-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/kadambini-ganguly.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODc3MDI2MzA3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6801928316211541658",
+         "kind": "blogger#post",
+         "published": "2022-01-10T20:57:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6801928316211541658/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6801928316211541658",
+         "title": "Annie Lowrie Alexander",
+         "updated": "2022-01-10T20:57:06-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/annie-lowrie-alexander.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODc2OTA1MDI5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8665762971978962153",
+         "kind": "blogger#post",
+         "published": "2022-01-10T20:55:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8665762971978962153/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8665762971978962153",
+         "title": "Elsie Inglis",
+         "updated": "2022-01-10T20:55:05-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/elsie-inglis.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODcyNDcyMTQ4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2490147581420692758",
+         "kind": "blogger#post",
+         "published": "2022-01-10T19:41:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2490147581420692758/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2490147581420692758",
+         "title": "Anandi Gopal Joshi",
+         "updated": "2022-01-10T19:41:12-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/anandi-gopal-joshi.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODcyMDk0NTgyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1278727005099331615",
+         "kind": "blogger#post",
+         "published": "2022-01-10T19:34:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1278727005099331615/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1278727005099331615",
+         "title": "Susan La Flesche Picotte",
+         "updated": "2022-01-10T19:34:54-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/susan-la-flesche-picotte.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODcxOTcyNjcwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7348930532758284484",
+         "kind": "blogger#post",
+         "published": "2022-01-10T19:32:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7348930532758284484/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/7348930532758284484",
+         "title": "Emma Willits",
+         "updated": "2022-01-10T19:32:52-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/emma-willits.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODcxODg4NzM5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "981903400912212761",
+         "kind": "blogger#post",
+         "published": "2022-01-10T19:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/981903400912212761/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/981903400912212761",
+         "title": "Vera Gedroitz",
+         "updated": "2022-01-10T19:31:28-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/vera-gedroitz.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODcxNzIzMDE1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8997738795987551181",
+         "kind": "blogger#post",
+         "published": "2022-01-10T19:28:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8997738795987551181/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8997738795987551181",
+         "title": "Maria Montessori",
+         "updated": "2022-01-10T19:28:43-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/maria-montessori.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODcxNjAyOTY3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3886537335168698765",
+         "kind": "blogger#post",
+         "published": "2022-01-10T19:26:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3886537335168698765/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3886537335168698765",
+         "title": "Florence R. Sabin",
+         "updated": "2022-01-10T19:26:42-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/florence-r-sabin.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODcxNDQxNzk2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2516716808880983794",
+         "kind": "blogger#post",
+         "published": "2022-01-10T19:24:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2516716808880983794/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2516716808880983794",
+         "title": "Hannah Myrick",
+         "updated": "2022-01-10T19:24:01-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/hannah-myrick.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODcxMTc2NzQxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8748098516860145926",
+         "kind": "blogger#post",
+         "published": "2022-01-10T19:19:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8748098516860145926/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8748098516860145926",
+         "title": "Yoshioka Yayoi ",
+         "updated": "2022-01-10T19:19:36-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/yoshioka-yayoi.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODcxMDk5MDU1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5585076486162445678",
+         "kind": "blogger#post",
+         "published": "2022-01-10T19:18:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5585076486162445678/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5585076486162445678",
+         "title": "Marie Equi",
+         "updated": "2022-01-10T19:18:19-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/marie-equi.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODcwOTk3NTQ1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4808216361022814819",
+         "kind": "blogger#post",
+         "published": "2022-01-10T19:16:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4808216361022814819/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4808216361022814819",
+         "title": "Laura Esther Rodríguez Dulanto",
+         "updated": "2022-01-10T19:16:37-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/laura-esther-rodriguez-dulanto.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODcwOTA1NTg4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2461543041880743994",
+         "kind": "blogger#post",
+         "published": "2022-01-10T19:15:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2461543041880743994/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2461543041880743994",
+         "title": "Muthulakshmi Reddi",
+         "updated": "2022-01-10T19:15:05-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/muthulakshmi-reddi.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODcwNjc2MzQ5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1351498307432581050",
+         "kind": "blogger#post",
+         "published": "2022-01-10T19:11:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1351498307432581050/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1351498307432581050",
+         "title": "Matilde Hidalgo",
+         "updated": "2022-01-10T19:11:16-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/matilde-hidalgo.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY4MzMwNTQ2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5874645976043476886",
+         "kind": "blogger#post",
+         "published": "2022-01-10T18:32:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5874645976043476886/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5874645976043476886",
+         "title": "Virginia Apgar",
+         "updated": "2022-01-10T18:32:10-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/virginia-apgar.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY4MjIyOTc4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "830730177373845005",
+         "kind": "blogger#post",
+         "published": "2022-01-10T18:30:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/830730177373845005/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/830730177373845005",
+         "title": "Badri Teymourtash",
+         "updated": "2022-01-10T18:30:22-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/badri-teymourtash.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY2OTk2MjYxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8033524834213303383",
+         "kind": "blogger#post",
+         "published": "2022-01-10T18:09:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8033524834213303383/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8033524834213303383",
+         "title": "Kathryn Stephenson",
+         "updated": "2022-01-10T18:09:56-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/kathryn-stephenson.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY2OTExODM0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3465251226015995071",
+         "kind": "blogger#post",
+         "published": "2022-01-10T18:08:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3465251226015995071/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3465251226015995071",
+         "title": "Jane Elizabeth Hodgson",
+         "updated": "2022-01-10T18:08:31-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/jane-elizabeth-hodgson.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY2NzEzMjM0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6103528642755736183",
+         "kind": "blogger#post",
+         "published": "2022-01-10T18:05:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6103528642755736183/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6103528642755736183",
+         "title": "Nancy Dickey",
+         "updated": "2022-01-10T18:05:13-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/nancy-dickey.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY2NjI5MTM3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8944782923095564306",
+         "kind": "blogger#post",
+         "published": "2022-01-10T18:03:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8944782923095564306/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8944782923095564306",
+         "title": "Nancy Andrews (biologist)",
+         "updated": "2022-01-10T18:03:49-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/nancy-andrews-biologist.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY2NDM0MTI2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4564626375148032248",
+         "kind": "blogger#post",
+         "published": "2022-01-10T18:00:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4564626375148032248/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4564626375148032248",
+         "title": "History of nursing",
+         "updated": "2022-01-10T18:00:34-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/history-of-nursing.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY2MDE2MzY4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8439132692702887232",
+         "kind": "blogger#post",
+         "published": "2022-01-10T17:53:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8439132692702887232/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/8439132692702887232",
+         "title": "Phoebe (biblical figure)",
+         "updated": "2022-01-10T17:53:36-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/phoebe-biblical-figure.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY1OTIwNjQ3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1915822629303789473",
+         "kind": "blogger#post",
+         "published": "2022-01-10T17:52:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1915822629303789473/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1915822629303789473",
+         "title": "Daughters of Charity of Saint Vincent de Paul",
+         "updated": "2022-01-10T17:52:00-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/daughters-of-charity-of-saint-vincent.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY1Nzc1NTA0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3070801623075978501",
+         "kind": "blogger#post",
+         "published": "2022-01-10T17:49:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3070801623075978501/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3070801623075978501",
+         "title": "Florence Nightingale",
+         "updated": "2022-01-10T17:49:35-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/florence-nightingale.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY1Mjc3MjIxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5800797196343314000",
+         "kind": "blogger#post",
+         "published": "2022-01-10T17:41:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5800797196343314000/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5800797196343314000",
+         "title": "Notes on Nursing",
+         "updated": "2022-01-10T17:41:17-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/notes-on-nursing.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY1MTU0MjM3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2487978695761258667",
+         "kind": "blogger#post",
+         "published": "2022-01-10T17:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2487978695761258667/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/2487978695761258667",
+         "title": "Mary Seacole",
+         "updated": "2022-01-10T17:39:14-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/mary-seacole.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY0OTc0MDgyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4356595665720922693",
+         "kind": "blogger#post",
+         "published": "2022-01-10T17:36:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4356595665720922693/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/4356595665720922693",
+         "title": "Agnes Jones",
+         "updated": "2022-01-10T17:36:14-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/agnes-jones.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY0ODE2MDM3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "701422605609293630",
+         "kind": "blogger#post",
+         "published": "2022-01-10T17:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/701422605609293630/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/701422605609293630",
+         "title": "Linda Richards",
+         "updated": "2022-01-10T17:33:36-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/linda-richards.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY0NzEwMDcyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3685367258177011930",
+         "kind": "blogger#post",
+         "published": "2022-01-10T17:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3685367258177011930/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/3685367258177011930",
+         "title": "Clara Barton",
+         "updated": "2022-01-10T17:31:50-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/clara-barton.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY0NTQzMDAxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1759683874241289096",
+         "kind": "blogger#post",
+         "published": "2022-01-10T17:29:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1759683874241289096/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/1759683874241289096",
+         "title": "Nurses Registration Act 1901",
+         "updated": "2022-01-10T17:29:03-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/nurses-registration-act-1901.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY0NDExMjUzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "373275303093809295",
+         "kind": "blogger#post",
+         "published": "2022-01-10T17:26:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/373275303093809295/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/373275303093809295",
+         "title": "Ellen Dougherty",
+         "updated": "2022-01-10T17:26:51-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/ellen-dougherty.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODY0Mjg0MzEwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5327568572913894027",
+         "kind": "blogger#post",
+         "published": "2022-01-10T17:24:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5327568572913894027/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/5327568572913894027",
+         "title": "Queen Alexandra's Royal Army Nursing Corps",
+         "updated": "2022-01-10T17:24:44-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/queen-alexandras-royal-army-nursing.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "1786608045710093063"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjQxODE4ODE1ODg2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6437437977817005400",
+         "kind": "blogger#post",
+         "published": "2022-01-10T04:46:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6437437977817005400/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/1786608045710093063/posts/6437437977817005400",
+         "title": "Timeline of nursing history",
+         "updated": "2022-01-10T04:46:55-08:00",
+         "url": "http://historyfmedicine.blogspot.com/2022/01/timeline-of-nursing-history.html"
+      }
+   ],
+   "kind": "blogger#postList"
+}
